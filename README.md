@@ -43,17 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnkurChouhan&show_icons=true&theme=react&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkurChouhan&theme=react&hide_border=true" />
-  <br/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurChouhan&layout=compact&theme=react&hide_border=true" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description |
