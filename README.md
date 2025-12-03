@@ -57,7 +57,7 @@
 
 ---
 
-### 🔄 CI/CD, Observability & Messaging
+### 🔄 CI/CD, Observability, Monitoring & Messaging
 
 <div align="center">
 
