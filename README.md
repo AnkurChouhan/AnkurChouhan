@@ -77,16 +77,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🎯 [Cloud Infra Toolkit](https://github.com/AnkurChouhan/cloud-infra-toolkit) | Infrastructure as Code (IaC) tools and automations |
-| 🧠 [MLOps Deployment Pipelines](https://github.com/AnkurChouhan/mlops-deploy) | Automated model deployment pipelines using CI/CD |
-| 📱 [React Native UI Kit](https://github.com/AnkurChouhan/react-native-ui) | Prebuilt mobile components for React Native |
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
