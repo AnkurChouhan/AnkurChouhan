@@ -83,6 +83,11 @@
 Deploy both a Flask backend and an Express frontend on a single AWS EC2 instance using PM2 and Nginx.  
 🔗 [View Project on GitHub →](https://github.com/AnkurChouhan/aws-deploy-flask-express_single_instance)
 
+🎯 **AWS Flask + Express Separate Instance Deployment**  
+Deploy both a Flask backend and an Express frontend on separate AWS EC2 instances.  
+🔗 [View Project on GitHub →](https://github.com/AnkurChouhan/flask-express-aws-separate_instance)
+
+
 ---
 
 ## 🌐 Let's Connect
