@@ -77,19 +77,24 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-🎯 **AWS Flask + Express Single Instance Deployment**  
-Deploy both a Flask backend and an Express frontend on a single AWS EC2 instance using PM2 and Nginx.  
+### ☁️ **AWS Flask + Express — Single Instance Deployment**  
+Deploy both a **Flask backend** and an **Express frontend** on a single **AWS EC2 instance** using **PM2** and **Nginx**.  
 🔗 [View Project on GitHub →](https://github.com/AnkurChouhan/aws-deploy-flask-express_single_instance)
 
-🎯 **AWS Flask + Express Separate Instance Deployment**  
-Deploy both a Flask backend and an Express frontend on separate AWS EC2 instances.  
+---
+
+### 🧩 **AWS Flask + Express — Separate Instance Deployment**  
+Deploy a **Flask backend** and an **Express frontend** on **separate AWS EC2 instances** for improved scalability and fault isolation.  
 🔗 [View Project on GitHub →](https://github.com/AnkurChouhan/flask-express-aws-separate_instance)
 
-🎯 **Flask Frontend and an Express Backend locally on Kubernetes (Minikube)**  
-It includes screenshots of deployments, services, and successful communication between both applications..  
-🔗 [View Project on GitHub →]((https://github.com/ankurchouhan/minikube_k8s_local_deployment))
+---
+
+### 🐳 **Kubernetes (Minikube) — Flask Frontend & Express Backend**  
+Deploy a **Flask frontend** and an **Express backend** locally on **Kubernetes (Minikube)**.  
+Includes screenshots of deployments, services, and successful communication between both applications.  
+🔗 [View Project on GitHub →](https://github.com/ankurchouhan/minikube_k8s_local_deployment)
 
 ---
 
