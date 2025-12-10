@@ -87,6 +87,9 @@ Deploy both a Flask backend and an Express frontend on a single AWS EC2 instance
 Deploy both a Flask backend and an Express frontend on separate AWS EC2 instances.  
 🔗 [View Project on GitHub →](https://github.com/AnkurChouhan/flask-express-aws-separate_instance)
 
+🎯 **Flask Frontend and an Express Backend locally on Kubernetes (Minikube)**  
+It includes screenshots of deployments, services, and successful communication between both applications..  
+🔗 [View Project on GitHub →]((https://github.com/ankurchouhan/minikube_k8s_local_deployment))
 
 ---
 
