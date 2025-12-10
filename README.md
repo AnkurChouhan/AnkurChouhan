@@ -79,6 +79,10 @@
 
 ## 🚀 Featured Projects
 
+### 🖥️ **Frontend (Node.js with Express) Docker Images Push And Compose**  
+🔗 **GitHub Repository:** [ankurchouhan/flask-node-docker_compose](https://github.com/ankurchouhan/flask-node-docker_compose
+
+
 ### ☁️ **AWS Flask + Express — Single Instance Deployment**  
 Deploy both a **Flask backend** and an **Express frontend** on a single **AWS EC2 instance** using **PM2** and **Nginx**.  
 🔗 [View Project on GitHub →](https://github.com/AnkurChouhan/aws-deploy-flask-express_single_instance)
