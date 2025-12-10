@@ -76,29 +76,44 @@
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
-### 🖥️ **Frontend (Node.js with Express) Docker Images Push And Compose**  
-🔗 **GitHub Repository:** [ankurchouhan/flask-node-docker_compose](https://github.com/ankurchouhan/flask-node-docker_compose
-
-
-### ☁️ **AWS Flask + Express — Single Instance Deployment**  
-Deploy both a **Flask backend** and an **Express frontend** on a single **AWS EC2 instance** using **PM2** and **Nginx**.  
-🔗 [View Project on GitHub →](https://github.com/AnkurChouhan/aws-deploy-flask-express_single_instance)
+Here’s a list of my major DevOps and deployment projects — each demonstrating different deployment strategies using **Flask**, **Express**, **Docker**, **AWS**, and **Kubernetes**.  
 
 ---
 
-### 🧩 **AWS Flask + Express — Separate Instance Deployment**  
-Deploy a **Flask backend** and an **Express frontend** on **separate AWS EC2 instances** for improved scalability and fault isolation.  
-🔗 [View Project on GitHub →](https://github.com/AnkurChouhan/flask-express-aws-separate_instance)
+### 1️⃣ 🖥️ **Frontend (Node.js with Express) — Docker Compose Deployment**  
+Deploy a **Node.js (Express) frontend** and **Flask backend** together using **Docker Compose** for seamless local orchestration.  
+🔗 **GitHub Repository:** [ankurchouhan/flask-node-docker_compose](https://github.com/ankurchouhan/flask-node-docker_compose)
 
 ---
 
-### 🐳 **Kubernetes (Minikube) — Flask Frontend & Express Backend**  
-Deploy a **Flask frontend** and an **Express backend** locally on **Kubernetes (Minikube)**.  
-Includes screenshots of deployments, services, and successful communication between both applications.  
-🔗 [View Project on GitHub →](https://github.com/ankurchouhan/minikube_k8s_local_deployment)
+### 2️⃣ ☁️ **AWS Flask + Express — Single Instance Deployment**  
+Deploy both a **Flask backend** and an **Express frontend** on a **single AWS EC2 instance** using **PM2** and **Nginx** for process management and reverse proxying.  
+🔗 **View Project on GitHub →** [AnkurChouhan/aws-deploy-flask-express_single_instance](https://github.com/AnkurChouhan/aws-deploy-flask-express_single_instance)
+
+---
+
+### 3️⃣ 🧩 **AWS Flask + Express — Separate Instance Deployment**  
+Deploy a **Flask backend** and an **Express frontend** on **separate AWS EC2 instances**, ensuring scalability and fault isolation between services.  
+🔗 **View Project on GitHub →** [AnkurChouhan/flask-express-aws-separate_instance](https://github.com/AnkurChouhan/flask-express-aws-separate_instance)
+
+---
+
+### 4️⃣ 🐳 **Kubernetes (Minikube) — Flask Frontend & Express Backend**  
+Deploy a **Flask frontend** and an **Express backend** locally using **Kubernetes (Minikube)**.  
+Includes configurations for pods, services, and inter-service communication screenshots.  
+🔗 **View Project on GitHub →** [ankurchouhan/minikube_k8s_local_deployment](https://github.com/ankurchouhan/minikube_k8s_local_deployment)
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-Backend-black?logo=flask" />
+  <img src="https://img.shields.io/badge/Node.js-Frontend-green?logo=node.js" />
+  <img src="https://img.shields.io/badge/Docker-Compose-blue?logo=docker" />
+  <img src="https://img.shields.io/badge/AWS-Deployment-orange?logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Kubernetes-Minikube-blue?logo=kubernetes" />
+</p>
 
 ---
 
