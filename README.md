@@ -1,60 +1,60 @@
-<!-- Responsive Profile README for Ankur Chouhan -->
+<!-- Mobile-Optimized GitHub Profile README for Ankur Chouhan -->
 
-<h1 align="center">👋 Hi, I'm <a href="https://github.com/ankurchouhan">Ankur Chouhan</a></h1>
+<h1 align="center" style="font-size:1.8rem;">👋 Hi, I'm <a href="https://github.com/ankurchouhan">Ankur Chouhan</a></h1>
 
-<p align="center">
+<p align="center" style="font-size:1rem; line-height:1.6;">
   🚀 <strong>DevOps Engineer</strong> | ☁️ <strong>Cloud Practitioner</strong> | 🐧 <strong>Open Source Enthusiast</strong><br>
-  <em>Passionate about automating deployments, building scalable cloud systems, and CI/CD pipelines.</em>
+  <em>Automating deployments, scaling cloud systems, and building CI/CD pipelines.</em>
 </p>
 
 ---
 
-## 🧭 **DevOps & Cloud Projects**
+## 🧭 DevOps & Cloud Projects
 
-<p align="center">
-  <em>Explore my end-to-end DevOps automation projects — from local Docker deployments to Terraform-based cloud provisioning.</em>
+<p align="center" style="font-size:0.95rem;">
+  <em>Explore my end-to-end DevOps automation projects — from Docker deployments to Terraform-based cloud provisioning.</em>
 </p>
 
-<div align="center" style="overflow-x:auto;">
+<div align="center" style="width:100%; overflow-x:auto;">
 
-<table style="width:100%; min-width:300px;">
+<table style="border-collapse:collapse; width:100%; font-size:0.9rem; min-width:320px;">
   <thead>
     <tr>
-      <th>🌍 Project</th>
-      <th>🔧 Description</th>
-      <th>🔗 Repository</th>
+      <th style="text-align:left;">🌍 Project</th>
+      <th style="text-align:left;">🔧 Description</th>
+      <th style="text-align:left;">🔗 Repo</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🐳 <strong>Frontend (Node.js + Flask) — Docker Compose Deployment</strong></td>
-      <td>Deploy a Node.js (Express) frontend & Flask backend locally with Docker Compose.</td>
-      <td><a href="https://github.com/ankurchouhan/flask-node-docker_compose">🔗 View</a></td>
+      <td>🐳 <strong>Docker Compose — Node.js + Flask</strong></td>
+      <td>Deploy Node.js (Express) & Flask apps locally with Docker Compose.</td>
+      <td><a href="https://github.com/ankurchouhan/flask-node-docker_compose">View</a></td>
     </tr>
     <tr>
-      <td>☁️ <strong>AWS Flask + Express — Single Instance (Terraform + EC2)</strong></td>
-      <td>Automate deployment of both Flask & Express apps on one AWS EC2 instance using Terraform + PM2 + Nginx.</td>
-      <td><a href="https://github.com/ankurchouhan/Terraform-Deploy-Both-Flask-and-Express-on-a-Single-EC2-Instance">🔗 View</a></td>
+      <td>☁️ <strong>AWS EC2 — Terraform + PM2 + Nginx</strong></td>
+      <td>Automate Flask & Express deployment on one EC2 instance.</td>
+      <td><a href="https://github.com/ankurchouhan/Terraform-Deploy-Both-Flask-and-Express-on-a-Single-EC2-Instance">View</a></td>
     </tr>
     <tr>
-      <td>🧩 <strong>AWS Flask + Express — Multi-Service Cloud Deployment</strong></td>
-      <td>Deploy Flask & Express apps on separate AWS instances with Docker & Terraform for isolation and scalability.</td>
-      <td><a href="https://github.com/ankurchouhan/Using-Docker-And-Terraform-Deploy-Flask-and-Express-on-AWS-Services">🔗 View</a></td>
+      <td>🧩 <strong>AWS Multi-Service Deployment</strong></td>
+      <td>Flask & Express on separate AWS instances via Docker & Terraform.</td>
+      <td><a href="https://github.com/ankurchouhan/Using-Docker-And-Terraform-Deploy-Flask-and-Express-on-AWS-Services">View</a></td>
     </tr>
     <tr>
-      <td>☸️ <strong>Kubernetes (Minikube) — Flask Frontend & Express Backend</strong></td>
-      <td>Local Kubernetes setup with pods, services, and inter-service communication for Flask + Express.</td>
-      <td><a href="https://github.com/ankurchouhan/minikube_k8s_local_deployment">🔗 View</a></td>
+      <td>☸️ <strong>Kubernetes (Minikube)</strong></td>
+      <td>Local setup with pods & services for Flask + Express.</td>
+      <td><a href="https://github.com/ankurchouhan/minikube_k8s_local_deployment">View</a></td>
     </tr>
     <tr>
-      <td>🌍 <strong>GCP Nginx Deployment — Terraform Infrastructure</strong></td>
-      <td>Provision a scalable Nginx web server on GCP using Terraform with visual deployment flow.</td>
-      <td><a href="https://github.com/ankurchouhan/Terraform_GCP_nginx">🔗 View</a></td>
+      <td>🌍 <strong>GCP Terraform — Nginx</strong></td>
+      <td>Provision scalable Nginx on GCP via Terraform.</td>
+      <td><a href="https://github.com/ankurchouhan/Terraform_GCP_nginx">View</a></td>
     </tr>
     <tr>
-      <td>🔁 <strong>CI/CD Pipeline — Flask App with Jenkins</strong></td>
-      <td>Full Jenkins CI/CD pipeline automating build, test, and deploy for a Flask app with Docker integration.</td>
-      <td><a href="https://github.com/ankurchouhan/flask_app_with_jenkins_ci-cd">🔗 View</a></td>
+      <td>🔁 <strong>Jenkins CI/CD — Flask</strong></td>
+      <td>Full Jenkins pipeline with Docker automation.</td>
+      <td><a href="https://github.com/ankurchouhan/flask_app_with_jenkins_ci-cd">View</a></td>
     </tr>
   </tbody>
 </table>
@@ -63,23 +63,27 @@
 
 ---
 
-## 💼 **Tech Stack**
+## 💼 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=terraform,aws,gcp,docker,kubernetes,jenkins,nginx,python,nodejs,flask,express,githubactions" alt="Tech stack icons" width="90%" style="max-width:700px; height:auto;" />
+  <img 
+    src="https://skillicons.dev/icons?i=terraform,aws,gcp,docker,kubernetes,jenkins,nginx,python,nodejs,flask,express,githubactions"
+    alt="Tech stack icons"
+    style="max-width:95%; height:auto;"
+  />
 </p>
 
 ---
 
-## 🤝 **Connect with Me**
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://github.com/ankurchouhan">
     <img src="https://img.shields.io/badge/GitHub-Ankur%20Chouhan-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+  </a><br>
   <a href="https://www.linkedin.com/in/ankurchouhan/">
     <img src="https://img.shields.io/badge/LinkedIn-Ankur%20Chouhan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+  </a><br>
   <a href="mailto:ankurchouhan@alien.com">
     <img src="https://img.shields.io/badge/Email-ankurchouhan%40alien.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
@@ -87,6 +91,6 @@
 
 ---
 
-<p align="center">
-  ⭐ <strong>If you like my projects, consider giving them a star — it helps me keep building cool stuff!</strong>
+<p align="center" style="font-size:0.95rem;">
+  ⭐ <strong>If you like my projects, give them a star — it keeps me building cool stuff!</strong>
 </p>
