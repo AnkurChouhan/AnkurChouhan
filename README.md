@@ -9,7 +9,7 @@
 
 ---
 
-## 🧭 **DevOps & Cloud Projects Portfolio**
+## 🧭 **DevOps & Cloud Projects**
 
 <p align="center">
   <em>Explore my end-to-end DevOps automation projects — from local Docker deployments to Terraform-based cloud provisioning.</em>
@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/ankurchouhan/">
     <img src="https://img.shields.io/badge/LinkedIn-Ankur%20Chouhan-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:ankurchouhan@example.com">
+  <a href="mailto:ankurchouhan@alien.com">
     <img src="https://img.shields.io/badge/Email-ankurchouhan%40example.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
