@@ -19,12 +19,12 @@
 
 | 🌍 Project | 🔧 Description | 🔗 Repository |
 |-------------|----------------|---------------|
-| 🐳 **Frontend (Node.js + Flask) — Docker Compose Deployment** | Deploy a Node.js (Express) frontend & Flask backend locally with Docker Compose. | [🔗 View Repo](https://github.com/ankurchouhan/flask-node-docker_compose) |
-| ☁️ **AWS Flask + Express — Single Instance (Terraform + EC2)** | Automate deployment of both Flask & Express apps on one AWS EC2 instance using Terraform + PM2 + Nginx. | [🔗 View Repo](https://github.com/ankurchouhan/Terraform-Deploy-Both-Flask-and-Express-on-a-Single-EC2-Instance) |
-| 🧩 **AWS Flask + Express — Multi-Service Cloud Deployment** | Deploy Flask & Express apps on separate AWS instances with Docker & Terraform for isolation and scalability. | [🔗 View Repo](https://github.com/ankurchouhan/Using-Docker-And-Terraform-Deploy-Flask-and-Express-on-AWS-Services) |
-| ☸️ **Kubernetes (Minikube) — Flask Frontend & Express Backend** | Local Kubernetes setup with pods, services, and inter-service communication for Flask + Express. | [🔗 View Repo](https://github.com/ankurchouhan/minikube_k8s_local_deployment) |
-| 🌍 **GCP Nginx Deployment — Terraform Infrastructure** | Provision a scalable Nginx web server on GCP using Terraform with visual deployment flow. | [🔗 View Repo](https://github.com/ankurchouhan/Terraform_GCP_nginx) |
-| 🔁 **CI/CD Pipeline — Flask App with Jenkins** | Full Jenkins CI/CD pipeline automating build, test, and deploy for a Flask app with Docker integration. | [🔗 View Repo](https://github.com/ankurchouhan/flask_app_with_jenkins_ci-cd) |
+| 🐳 **Frontend (Node.js + Flask) — Docker Compose Deployment** | Deploy a Node.js (Express) frontend & Flask backend locally with Docker Compose. | [🔗 View ](https://github.com/ankurchouhan/flask-node-docker_compose) |
+| ☁️ **AWS Flask + Express — Single Instance (Terraform + EC2)** | Automate deployment of both Flask & Express apps on one AWS EC2 instance using Terraform + PM2 + Nginx. | [🔗 View ](https://github.com/ankurchouhan/Terraform-Deploy-Both-Flask-and-Express-on-a-Single-EC2-Instance) |
+| 🧩 **AWS Flask + Express — Multi-Service Cloud Deployment** | Deploy Flask & Express apps on separate AWS instances with Docker & Terraform for isolation and scalability. | [🔗 View ](https://github.com/ankurchouhan/Using-Docker-And-Terraform-Deploy-Flask-and-Express-on-AWS-Services) |
+| ☸️ **Kubernetes (Minikube) — Flask Frontend & Express Backend** | Local Kubernetes setup with pods, services, and inter-service communication for Flask + Express. | [🔗 View ](https://github.com/ankurchouhan/minikube_k8s_local_deployment) |
+| 🌍 **GCP Nginx Deployment — Terraform Infrastructure** | Provision a scalable Nginx web server on GCP using Terraform with visual deployment flow. | [🔗 View ](https://github.com/ankurchouhan/Terraform_GCP_nginx) |
+| 🔁 **CI/CD Pipeline — Flask App with Jenkins** | Full Jenkins CI/CD pipeline automating build, test, and deploy for a Flask app with Docker integration. | [🔗 View ](https://github.com/ankurchouhan/flask_app_with_jenkins_ci-cd) |
 
 </div>
 
@@ -38,14 +38,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankurchouhan&show_icons=true&theme=transparent" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankurchouhan&theme=transparent" height="160px"/>
-</p>
-
----
 
 ## 🤝 **Connect with Me**
 
