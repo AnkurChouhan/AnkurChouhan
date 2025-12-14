@@ -8,6 +8,20 @@
 </p>
 
 ---
+## ☁️ Cloud & Solutions Architect Design — Serverless + Compute Engine Architecture
+
+Explore the complete end-to-end implementation on GitHub:  
+🔗 **[Infra · Backend · Data · ML Architecture](https://github.com/ankurchouhan/Infra-backend-data-ML-Architecture)**
+
+This companion repository demonstrates how a **Cloud & Solutions Architect** can integrate:
+- Serverless microservices (Cloud Run / Functions)
+- Compute Engine & GKE for stateful or high-performance workloads
+- Automated CI/CD pipelines with Terraform & Cloud Build
+- Data engineering with Pub/Sub, Dataflow, and BigQuery
+- Vertex AI for ML-driven personalization and recommendations
+
+Together, this project and the linked architecture form a **comprehensive cloud blueprint** for scalable, production-grade systems.
+
 
 ## 🧭 DevOps & Cloud Projects
 
